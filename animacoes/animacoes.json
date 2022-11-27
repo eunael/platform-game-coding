@@ -1,0 +1,116 @@
+{
+    "idle": [
+        {
+            "name": "persona_idle_00",
+            "position": {
+                "x": 0,
+                "y": 0,
+                "w": 0,
+                "h": 0
+            }
+        },
+        {
+            "name": "persona_idle_01",
+            "position": {
+                "x": 0,
+                "y": 0,
+                "w": 0,
+                "h": 0
+            }
+        },
+        {
+            "name": "persona_idle_02",
+            "position": {
+                "x": 0,
+                "y": 0,
+                "w": 0,
+                "h": 0
+            }
+        },
+        {
+            "name": "persona_idle_03",
+            "position": {
+                "x": 0,
+                "y": 0,
+                "w": 0,
+                "h": 0
+            }
+        }
+    ],
+    "running": [
+        {
+            "name": "persona_running_00",
+            "position": {
+                "x": 0,
+                "y": 0,
+                "w": 0,
+                "h": 0
+            }
+        },
+        {
+            "name": "persona_running_01",
+            "position": {
+                "x": 0,
+                "y": 0,
+                "w": 0,
+                "h": 0
+            }
+        },
+        {
+            "name": "persona_running_02",
+            "position": {
+                "x": 0,
+                "y": 0,
+                "w": 0,
+                "h": 0
+            }
+        },
+        {
+            "name": "persona_running_03",
+            "position": {
+                "x": 0,
+                "y": 0,
+                "w": 0,
+                "h": 0
+            }
+        },
+        {
+            "name": "persona_running_04",
+            "position": {
+                "x": 0,
+                "y": 0,
+                "w": 0,
+                "h": 0
+            }
+        },
+        {
+            "name": "persona_running_05",
+            "position": {
+                "x": 0,
+                "y": 0,
+                "w": 0,
+                "h": 0
+            }
+        }
+    ],
+    "jumping": [
+        {
+            "name": "persona_jumping_00",
+            "position": {
+                "x": 0,
+                "y": 0,
+                "w": 0,
+                "h": 0
+            }
+        },
+        {
+            "name": "persona_jumping_01",
+            "position": {
+                "x": 0,
+                "y": 0,
+                "w": 0,
+                "h": 0
+            }
+        }
+    ]
+}
