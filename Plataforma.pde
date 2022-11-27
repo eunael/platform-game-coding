@@ -1,4 +1,6 @@
 class Plataforma {
+  // sprites
+  PImage spritesheet;
   PVector posicao; // posiçaõ da plataforma
   int xVel, // velocidade do ambiente
     altura = 40,largura = altura*6; // dimensões da plataformas
@@ -9,10 +11,15 @@ class Plataforma {
     int intPos = (int) random(0,5);
     int mult = yMultPos[intPos];
     posicao = new PVector(posXInicial, height - altura*mult);
+    spritesheet = loadImage("animacoes/plataforma.png").get(24, 72, 72, 24);
   }
   // exibe a plataforma
   void display() {
-    rect(posicao.x, posicao.y, largura, altura);
+    push();
+    imageMode(CENTER);
+    image(spritesheet, posicao.x+(largura/1.9), posicao.y+(altura/2), largura, altura);
+    pop();
+    
     movimenta();
   }
   // move a plataforma
@@ -32,5 +39,8 @@ class Plataforma {
   }
   int getLargura() {
     return largura;
+  }
+  int getVelocidade() {
+    return xVel;
   }
 } 

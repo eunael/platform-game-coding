@@ -5,35 +5,35 @@
             "position": {
                 "x": 0,
                 "y": 0,
-                "w": 0,
-                "h": 0
+                "w": 32,
+                "h": 32
             }
         },
         {
             "name": "persona_idle_01",
             "position": {
-                "x": 0,
+                "x": 32,
                 "y": 0,
-                "w": 0,
-                "h": 0
+                "w": 32,
+                "h": 32
             }
         },
         {
             "name": "persona_idle_02",
             "position": {
-                "x": 0,
+                "x": 64,
                 "y": 0,
-                "w": 0,
-                "h": 0
+                "w": 32,
+                "h": 32
             }
         },
         {
             "name": "persona_idle_03",
             "position": {
-                "x": 0,
+                "x": 96,
                 "y": 0,
-                "w": 0,
-                "h": 0
+                "w": 32,
+                "h": 32
             }
         }
     ],
