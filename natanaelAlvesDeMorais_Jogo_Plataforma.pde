@@ -25,7 +25,7 @@ int numFrames = 60;
 boolean rightpress=false, leftpress=false;
 
 void setup() {
-  size(600, 700); // com 800 era maior que meu monitor, nao aparecia a parte mais abaixo
+  size(600, 800);
   frameRate(numFrames);
   
   // instaciando o personagem
