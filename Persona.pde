@@ -10,7 +10,7 @@ class Persona {
   // posição de resete para a personagem
   PVector posiResete;
   
-  int dimensaoBloco = 30, // dimensões de altura e largura da personagem
+  int dimensaoBloco = 35, // dimensões de altura e largura da personagem
     dimensaoImagem = dimensaoBloco*2,
     xVel = 7, yVel = 20, // velocidade da pesonagem no eixos
     forcaSalto = 340, salto = 0, // força total de um alto e força atual do salto

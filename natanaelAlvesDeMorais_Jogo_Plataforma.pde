@@ -1,3 +1,5 @@
+// GIT: https://github.com/naelallves/platform-game-coding
+
 //PImage bg;
 // instância do personagem
 Persona persona;
